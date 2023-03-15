@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Mah76
-- 👀 I’m interested in programming and development
-- 🌱 I’m currently learning networking and mobile phone engineering
+
 - 📫 How to reach me mahmoud@mah76.me
 
 <!---
